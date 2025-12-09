@@ -1,4 +1,4 @@
-# 🚀🚀🚀 Pumpfun Pumpswap Bundler CLI Bot 🚀🚀🚀 
+# 🚀🚀🚀 Pumpfun Pumpswap Bundler Bot 🚀🚀🚀 
 
 [English](README.md) | [中文](README_CN.md)
 
