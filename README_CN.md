@@ -15,4 +15,4 @@ Pumpfun/Pumpswap 打包器是一个工具，用户可以根据自己的设置来
 欢迎贡献！如有任何改进建议，请开启 issue 或提交 pull request。
 如有任何建议和问题，欢迎随时联系我。
 <br>
-Telegram - [Hodlwarden](https://t.me/hodlwarden)
+Telegram - [0xcrypoops](https://t.me/oxcrypoops)
