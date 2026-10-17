@@ -15,4 +15,4 @@ It has potential that can be most profitable tool without any risk (we're always
 Contributions are welcome! Please open an issue or pull request for any improvements.
 Feel free to reach out me for any suggestions and questions, you're always welcome.
 <br>
-Telegram - [0xcrypoops](https://t.me/oxcrypoops)
+Telegram - [0xcrypoops](https://t.me/devbeast5775)
